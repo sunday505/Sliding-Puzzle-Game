@@ -72,3 +72,49 @@ Ensure image and sound folders are placed correctly:
 Run the game:
 
     python main.py
+
+---
+
+## ⚙️ How the Game Works
+
+The puzzle consists of 8 image tiles and 1 empty space
+
+Tiles can only move if they are adjacent to the empty space
+
+The board is randomized at the start while ensuring it remains solvable
+
+A timer starts automatically when the game begins
+
+When all tiles are placed in the correct order, a win message and sound effect are triggered
+
+---
+
+## 🧠 Learning Outcomes
+
+Through this project, I practiced:
+
+- Object-oriented programming in Python
+
+- Tkinter GUI layout using grid
+
+- Game state management
+
+- Randomized puzzle logic
+
+- Event handling and timing with after()
+
+- File handling for images and sound effects
+
+---
+
+## 📌 Future Improvements
+
+- Add difficulty levels (4×4, 5×5)
+
+- Add move counter
+
+- Improve UI layout and animations
+
+- Add image selection feature
+
+---
