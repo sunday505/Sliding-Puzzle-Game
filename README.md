@@ -52,9 +52,9 @@ The project was created to improve my **Python programming skills**, **GUI devel
 
 ├── SlidePuzzleSoundEffect/
 
-  ├── click_sound_2.wav
+│ ├── click_sound_2.wav
 
-  └── win_sound_2.wav
+│ └── win_sound_2.wav
 
 ---
 
